@@ -25,3 +25,12 @@ El modelo entrenado alcanzó una **exactitud (Accuracy) de 1.0** en el conjunto 
 1. Clona el repositorio:
    ```bash
    git clone [https://github.com/eslicolina/LabSeptember.git](https://github.com/eslicolina/LabSeptember.git)
+
+   Asegúrate de tener instaladas las librerías necesarias:
+
+Bash
+pip install pandas numpy scikit-learn
+Ejecuta el script principal de Python:
+
+Bash
+python nombre_de_tu_archivo.py
